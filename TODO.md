@@ -1,3 +1,0 @@
-- [ ] Test more models
-- [ ] Find larger datasets containing longer sentences
-  - semantic search, multi-qa, bitext mining
