@@ -16,3 +16,13 @@
     ```
 2. To run the benchmark, select the task you want to run, e.g. `clustering_benchmarks.ipynb` and run all cells.
 3. Display the results and create all associated plots by running the plot notebook, e.g. `clustering_plots.ipynb`.
+    The available task and plots are:
+    | Task | Plot |
+    | --- | --- |
+    | `clustering_benchmarks.ipynb` | `clustering_plots.ipynb` |
+    | `clustering_benchmarks_cutoff.ipynb` | `clustering_plots_cutoff.ipynb` |
+    | `retrieval_benchmark_cqa.ipynb` | `retrieval_plots.ipynb` |
+    | `retrieval_benchmark_nqa_chunking.ipynb` | `retrieval_plots.ipynb` |
+    | `retrieval_benchmark_nqa_seq.ipynb` | `retrieval_plots.ipynb` |
+    | `sts_benchmarks.ipynb` | `sts_plots.ipynb` |
+    
